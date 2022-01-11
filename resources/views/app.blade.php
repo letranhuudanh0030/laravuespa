@@ -12,43 +12,56 @@
 
 <body class="font-sans">
     <div id="app">
-        <div class="container mx-auto">
-            <header class="py-6 mb-8">
-                <img src="/images/logo.svg" alt="Laravel, Vue 2 and SPA">
-            </header>
+        <header class="py-6 px-8 mb-8" style="background: url({{ asset('images/splash.svg')}}) 0 15px no-repeat;">
+            <h1 style="padding: 12px 0">
+                <a href="/">
+                    <img src="{{ asset('images/logo.svg') }}" alt="Laravel, Vue 2 and SPA">
+                </a>
+            </h1>
+        </header>
+        <div class="container mx-auto px-8">
             <main class="flex">
                 <aside class="w-1/5">
-                    <section class="mb-8">
-                        <h5 class="uppercase font-bold mb-3">The Brand</h5>
+                    <section class="mb-10">
+                        <h5 class="uppercase font-bold mb-5 text-base">The Brand</h5>
                         <ul class="">
-                            <li class="text-sm leading-loose">
-                                <router-link class="text-blacka" to="/">Logo</router-link>
+                            <li class="text-sm leading-hd-loose">
+                                <router-link class="text-hd-black" to="/" exact>Logo</router-link>
                             </li>
-                            <li class="text-sm leading-loose">
-                                <router-link class="text-black" to="/about">Logo Symbol</router-link>
+                            <li class="text-sm leading-hd-loose">
+                                <router-link class="text-hd-black" to="/logo-symbol">Logo Symbol
+                                </router-link>
                             </li>
-                            <li class="text-sm leading-loose">
-                                <router-link class="text-black" to="/about">Colors</router-link>
+                            <li class="text-sm leading-hd-loose">
+                                <router-link class="text-hd-black" to="/colors">Colors
+                                </router-link>
                             </li>
-                            <li class="text-sm leading-loose">
-                                <router-link class="text-black" to="/about">Typography</router-link>
+                            <li class="text-sm leading-hd-loose">
+                                <router-link class="text-hd-black" to="/typography">Typography
+                                </router-link>
                             </li>
                         </ul>
                     </section>
-                    <section class="mb-6">
-                        <h5 class="uppercase font-bold mb-3">Doodles</h5>
+                    <section>
+                        <h5 class="uppercase font-bold mb-5 text-base">Doodles</h5>
                         <ul class="">
-                            <li class="text-sm leading-loose">
-                                <router-link class="text-black" to="/">Mascot</router-link>
+                            <li class="text-sm leading-hd-loose">
+                                <router-link class="text-hd-black" to="/mascot">Mascot
+                                </router-link>
                             </li>
-                            <li class="text-sm leading-loose">
-                                <router-link class="text-black" to="/about">Illustration</router-link>
+                            <li class="text-sm leading-hd-loose">
+                                <router-link class="text-hd-black" to="/illustration">Illustration
+                                </router-link>
                             </li>
-                            <li class="text-sm leading-loose">
-                                <router-link class="text-black" to="/">Loaders and Animations</router-link>
+                            <li class="text-sm leading-hd-loose">
+                                <router-link class="text-hd-black" to="/loaders-and-animations">
+                                    Loaders
+                                    and Animations
+                                </router-link>
                             </li>
-                            <li class="text-sm leading-loose">
-                                <router-link class="text-black" to="/about">Wallpaper</router-link>
+                            <li class="text-sm leading-hd-loose">
+                                <router-link class="text-hd-black" to="/wallpaper">Wallpaper
+                                </router-link>
                             </li>
                         </ul>
                     </section>
@@ -57,7 +70,6 @@
                     <router-view></router-view>
                 </div>
             </main>
-            <hr>
         </div>
     </div>
     <script src="{{ asset('js/app.js') }}"></script>

@@ -7,11 +7,11 @@ module.exports = {
     theme: {
         extend: {
             lineHeight: {
-                loose: "40px",
+                "hd-loose": "40px",
             },
             colors: {
-                black: "#222222",
-                "grey-darkest": "#4a4a4a",
+                "hd-black": "#222222",
+                "hd-grey-darkest": "#4a4a4a",
             },
         },
     },

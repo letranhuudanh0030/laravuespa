@@ -1,6 +1,6 @@
 <template>
-    <h1 class="font-normal text-3xl text-grey-darkest leading-none">
-        Full Logo
+    <h1 class="font-normal text-3xl text-hd-grey-darkest leading-none">
+        Mascot
     </h1>
 </template>
 
