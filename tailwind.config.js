@@ -12,6 +12,21 @@ module.exports = {
             colors: {
                 "hd-black": "#222222",
                 "hd-grey-darkest": "#4a4a4a",
+                "hd-grey-light": "#DEDEDE",
+                "hd-grey": "#b8c2cc",
+                "hd-blue": "#1747b0",
+            },
+            boxShadow: {
+                "hd-default": "0 1px 7px 0 rgba(36,37,38,0.08)",
+            },
+            width: {
+                "hd-18": "4.5rem",
+            },
+            height: {
+                "hd-18": "4.5rem",
+            },
+            fontSize: {
+                "2xs": ".625rem",
             },
         },
     },
