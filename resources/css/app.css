@@ -5,3 +5,14 @@
 .container {
     max-width: 1060px;
 }
+
+.button {
+    border-width: 1px;
+    border-color: #dedede;
+    padding: 0.5rem 2rem;
+    border-radius: 9999px;
+    color: #222;
+    font-weight: 700;
+    font-size: 0.75rem;
+    transition: all 0.3s;
+}

@@ -11,8 +11,11 @@ module.exports = {
             },
             colors: {
                 "hd-black": "#222222",
+                "hd-grey-darker": "#606f7b",
                 "hd-grey-darkest": "#4a4a4a",
                 "hd-grey-light": "#DEDEDE",
+                "hd-grey-lighter": "#f1f5f8",
+                "hd-grey-lightest": "#f9f9f9",
                 "hd-grey": "#b8c2cc",
                 "hd-blue": "#1747b0",
             },

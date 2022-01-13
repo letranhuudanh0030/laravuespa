@@ -142,7 +142,85 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({});
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
+  data: function data() {
+    return {
+      illustrations: [{
+        img: {
+          src: "/images/illustration/clarity.svg",
+          alt: "Clarity",
+          fileName: "clarity.svg"
+        },
+        title: "Clarity",
+        teaser: "Anyone can fumble around until a program works. But to write truly clear code...is far more difficult."
+      }, {
+        img: {
+          src: "/images/illustration/fun.svg",
+          alt: "Fun",
+          fileName: "fun.svg"
+        },
+        title: "Fun",
+        teaser: "If you’re not having fun, what's the point? As exhausting as programming can sometimes be, don't forget the simple joy of writing in a code editor, and seeing it reflected in the browser."
+      }, {
+        img: {
+          src: "/images/illustration/experiment.svg",
+          alt: "Experiment",
+          fileName: "experiment.svg"
+        },
+        title: "Experiment",
+        teaser: "Each step of a new project often requires hours of research and experimentation."
+      }, {
+        img: {
+          src: "/images/illustration/strength.svg",
+          alt: "Strength",
+          fileName: "strength.svg"
+        },
+        title: "Strength",
+        teaser: 'You\'ve spent hours staring at your computer screen. "Why isn\'t it working?" And then, finally, in a perfect "aha" moment, you level up and solve the problem.'
+      }, {
+        img: {
+          src: "/images/illustration/information.svg",
+          alt: "Information",
+          fileName: "information.svg"
+        },
+        title: "Information",
+        teaser: 'Too often, we lack the mental "tools" to solve a particular problem. Thankfully, that\'s what the forum is for!'
+      }]
+    };
+  }
+});
 
 /***/ }),
 
@@ -156,6 +234,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -209,48 +294,37 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({});
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
+  data: function data() {
+    return {
+      logos: [{
+        img: {
+          src: "/images/logo/logo.svg",
+          alt: "Logo",
+          fileName: "logo.svg"
+        },
+        background: "",
+        teaser: "Original logo on <strong>white</strong> background"
+      }, {
+        img: {
+          src: "/images/logo/negative-logo.svg",
+          alt: "Negative Logo",
+          fileName: "negative-logo.svg"
+        },
+        background: "bg-hd-blue",
+        teaser: "Negative logo with accent on <strong>dark</strong> background"
+      }, {
+        img: {
+          src: "/images/logo/pure-negative-logo.svg",
+          alt: "Pure Nagative Logo",
+          fileName: "pure-negative-logo.svg"
+        },
+        background: "bg-hd-black",
+        teaser: "Pure negative logo on <strong>dark</strong> background"
+      }]
+    };
+  }
+});
 
 /***/ }),
 
@@ -297,51 +371,37 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({});
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
+  data: function data() {
+    return {
+      symbols: [{
+        img: {
+          src: "/images/symbol/symbol-original.svg",
+          alt: "Symbol Original",
+          fileName: "symbol-original.svg"
+        },
+        background: "",
+        teaser: "Original symbol on <strong>white</strong> background"
+      }, {
+        img: {
+          src: "/images/symbol/symbol-negative.svg",
+          alt: "Symbol Negative",
+          fileName: "symbol-negative.svg"
+        },
+        background: "bg-hd-blue",
+        teaser: "Negative symbol with accent on <strong>dark</strong> background"
+      }, {
+        img: {
+          src: "/images/symbol/symbol-pure-negative.svg",
+          alt: "Symbol Pure Negative",
+          fileName: "symbol-pure-negative.svg"
+        },
+        background: "bg-hd-black",
+        teaser: "Pure negative symbol on <strong>dark</strong> background"
+      }]
+    };
+  }
+});
 
 /***/ }),
 
@@ -361,7 +421,92 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({});
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
+  data: function data() {
+    return {
+      mascots: [{
+        img: {
+          src: "/images/mascot/larydefault.svg",
+          alt: "Lary Default",
+          fileName: "larydefault.svg"
+        },
+        teaser: "Quirky. Dynamic. Smartsy. He’s got it all. Who wouldn’t want him?"
+      }, {
+        img: {
+          src: "/images/mascot/larypeek.svg",
+          alt: "Lary Peek",
+          fileName: "larypeek.svg"
+        },
+        teaser: ""
+      }, {
+        img: {
+          src: "/images/mascot/larywink.svg",
+          alt: "Lary Wink",
+          fileName: "larywink.svg"
+        },
+        teaser: ""
+      }, {
+        img: {
+          src: "/images/mascot/larysmart.svg",
+          alt: "Lary Smart",
+          fileName: "larysmart.svg"
+        },
+        teaser: ""
+      }, {
+        img: {
+          src: "/images/mascot/larylab.svg",
+          alt: "Lary Lab",
+          fileName: "larylab.svg"
+        },
+        teaser: ""
+      }]
+    };
+  }
+});
 
 /***/ }),
 
@@ -399,7 +544,87 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({});
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
+  data: function data() {
+    return {
+      fonts: [{
+        background: "bg-hd-grey-lightest",
+        textColor: "#222222",
+        styles: [{
+          name: "Open Sans Light",
+          size: "300",
+          "class": "font-light"
+        }, {
+          name: "Open Sans Regular",
+          size: "400",
+          "class": "font-normal"
+        }, {
+          name: "Open Sans Semi Bold",
+          size: "600",
+          "class": "font-semibold"
+        }, {
+          name: "Open Sans Bold",
+          size: "700",
+          "class": "font-bold"
+        }]
+      }, {
+        background: "bg-hd-black",
+        textColor: "#FFFFFF",
+        styles: [{
+          name: "Open Sans Light",
+          size: "300",
+          "class": "font-light"
+        }, {
+          name: "Open Sans Regular",
+          size: "400",
+          "class": "font-normal"
+        }, {
+          name: "Open Sans Semi Bold",
+          size: "600",
+          "class": "font-semibold"
+        }, {
+          name: "Open Sans Bold",
+          size: "700",
+          "class": "font-bold"
+        }]
+      }]
+    };
+  }
+});
 
 /***/ }),
 
@@ -419,7 +644,84 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({});
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
+  data: function data() {
+    return {
+      wallpapers: [{
+        img: {
+          src: "/images/wallpaper/clarity.png",
+          alt: "Clarity",
+          fileName: "clarity.png"
+        },
+        teaser: "Inspire Clarity"
+      }, {
+        img: {
+          src: "/images/wallpaper/strength.png",
+          alt: "Strength",
+          fileName: "strength.png"
+        },
+        teaser: "Inspire Strength"
+      }, {
+        img: {
+          src: "/images/wallpaper/knowledge.png",
+          alt: "Knowledge",
+          fileName: "knowledge.png"
+        },
+        teaser: "Inspire Knowledge"
+      }, {
+        img: {
+          src: "/images/wallpaper/fun.png",
+          alt: "Fun",
+          fileName: "fun.png"
+        },
+        teaser: "Inspire Fun"
+      }, {
+        img: {
+          src: "/images/wallpaper/experimenting.png",
+          alt: "Experimenting",
+          fileName: "experimenting.png"
+        },
+        teaser: "Inspire Experimenting"
+      }, {
+        img: {
+          src: "/images/wallpaper/extra.png",
+          alt: "Extra",
+          fileName: "extra.png"
+        },
+        teaser: "Extra"
+      }, {
+        img: {
+          src: "/images/wallpaper/inspire-me.png",
+          alt: "Inspire Me",
+          fileName: "inspire-me.png"
+        },
+        teaser: "Inspire Me"
+      }]
+    };
+  }
+});
 
 /***/ }),
 
@@ -1307,9 +1609,61 @@ var render = function () {
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
   return _c(
-    "h1",
-    { staticClass: "font-normal text-3xl text-hd-grey-darkest leading-none" },
-    [_vm._v("\n    Illustration\n")]
+    "div",
+    [
+      _c(
+        "h1",
+        {
+          staticClass:
+            "font-normal text-3xl text-hd-grey-darkest leading-none mb-10",
+        },
+        [_vm._v("\n        Illustration\n    ")]
+      ),
+      _vm._v(" "),
+      _vm._l(_vm.illustrations, function (illustration, index) {
+        return _c("div", { key: index, staticClass: "lg:flex mb-12" }, [
+          _c(
+            "picture",
+            {
+              staticClass:
+                "rounded-lg bg-hd-blue py-6 px-10 lg:mr-10 flex flex-1 justify-center items-center",
+            },
+            [
+              _c("img", {
+                staticClass: "w-32",
+                attrs: { src: illustration.img.src, alt: illustration.img.alt },
+              }),
+            ]
+          ),
+          _vm._v(" "),
+          _c("div", { staticStyle: { flex: "1.4 1 0%" } }, [
+            _c("h2", { staticClass: "font-light text-xl mb-4 mt-4" }, [
+              _vm._v(
+                "\n                " +
+                  _vm._s(illustration.title) +
+                  "\n            "
+              ),
+            ]),
+            _vm._v(" "),
+            _c("p", {
+              staticClass:
+                "leading-relaxed text-hd-grey-darker text-sm mb-8 font-light",
+              domProps: { innerHTML: _vm._s(illustration.teaser) },
+            }),
+            _vm._v(" "),
+            _c(
+              "a",
+              {
+                staticClass: "button",
+                attrs: { href: illustration.img.src, download: "" },
+              },
+              [_vm._v(_vm._s(illustration.img.fileName))]
+            ),
+          ]),
+        ])
+      }),
+    ],
+    2
   )
 }
 var staticRenderFns = []
@@ -1334,13 +1688,35 @@ var render = function () {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c(
-    "h1",
-    { staticClass: "font-normal text-3xl text-hd-grey-darkest leading-none" },
-    [_vm._v("\n    Loaders And Animations\n")]
-  )
+  return _vm._m(0)
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function () {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _c(
+        "h1",
+        {
+          staticClass:
+            "font-normal text-3xl text-hd-grey-darkest leading-none mb-8",
+        },
+        [_vm._v("\n        Loaders And Animations\n    ")]
+      ),
+      _vm._v(" "),
+      _c("p", { staticClass: "mb-10 text-hd-grey-darker leading-normal" }, [
+        _vm._v("\n        This spinner uses AirBnb's\n        "),
+        _c("a", { attrs: { href: "http://airbnb.io/lottie/#/web" } }, [
+          _vm._v("Lottie"),
+        ]),
+        _vm._v(
+          " library to render\n        its animation. You may download the necessary assets below.\n    "
+        ),
+      ]),
+    ])
+  },
+]
 render._withStripped = true
 
 
@@ -1362,14 +1738,9 @@ var render = function () {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _vm._m(0)
-}
-var staticRenderFns = [
-  function () {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", [
+  return _c(
+    "div",
+    [
       _c(
         "h1",
         {
@@ -1379,123 +1750,43 @@ var staticRenderFns = [
         [_vm._v("\n        Full Logo\n    ")]
       ),
       _vm._v(" "),
-      _c("div", { staticClass: "mb-10" }, [
-        _c(
-          "picture",
-          {
-            staticClass:
-              "block rounded-lg shadow-hd-default flex items-center justify-center mb-6",
-            staticStyle: { height: "382px" },
-          },
-          [_c("img", { attrs: { src: "/images/logo/logo.svg", alt: "Logo" } })]
-        ),
-        _vm._v(" "),
-        _c("div", { staticClass: "flex justify-between" }, [
-          _c("p", [
-            _vm._v("Original logo on "),
-            _c("strong", [_vm._v("white")]),
-            _vm._v(" background"),
-          ]),
-          _vm._v(" "),
-          _c(
-            "a",
-            {
-              staticClass:
-                "border border-grey-light px-8 py-2 rounded-full text-hd-black font-bold text-xs",
-              attrs: {
-                download: "",
-                type: "button",
-                href: "/images/logo/logo.svg",
-              },
-            },
-            [_vm._v("logo.svg")]
-          ),
-        ]),
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "mb-10" }, [
-        _c(
-          "picture",
-          {
-            staticClass:
-              "block rounded-lg shadow-hd-default flex items-center justify-center mb-6 bg-hd-blue",
-            staticStyle: { height: "382px" },
-          },
+      _vm._l(_vm.logos, function (logo, index) {
+        return _c(
+          "div",
+          { key: index, class: index < _vm.logos.length - 1 ? "mb-10" : "" },
           [
-            _c("img", {
-              attrs: { src: "/images/logo/negative-logo.svg", alt: "Logo" },
-            }),
-          ]
-        ),
-        _vm._v(" "),
-        _c("div", { staticClass: "flex justify-between" }, [
-          _c("p", [
-            _vm._v(
-              "\n                Negative logo with accent on\n                "
+            _c(
+              "picture",
+              {
+                staticClass:
+                  "block rounded-lg shadow-hd-default flex items-center justify-center mb-6",
+                class: logo.background,
+                staticStyle: { height: "382px" },
+              },
+              [_c("img", { attrs: { src: logo.img.src, alt: logo.img.alt } })]
             ),
-            _c("strong", [_vm._v("dark")]),
-            _vm._v(" background\n            "),
-          ]),
-          _vm._v(" "),
-          _c(
-            "a",
-            {
-              staticClass:
-                "border border-grey-light px-8 py-2 rounded-full text-hd-black font-bold text-xs",
-              attrs: {
-                download: "",
-                type: "button",
-                href: "/images/logo/negative-logo.svg",
-              },
-            },
-            [_vm._v("negative-logo.svg")]
-          ),
-        ]),
-      ]),
-      _vm._v(" "),
-      _c("div", [
-        _c(
-          "picture",
-          {
-            staticClass:
-              "block rounded-lg shadow-hd-default flex items-center justify-center mb-6 bg-hd-black",
-            staticStyle: { height: "382px" },
-          },
-          [
-            _c("img", {
-              attrs: {
-                src: "/images/logo/pure-negative-logo.svg",
-                alt: "Logo",
-              },
-            }),
+            _vm._v(" "),
+            _c("div", { staticClass: "flex justify-between" }, [
+              _c("p", { domProps: { innerHTML: _vm._s(logo.teaser) } }),
+              _vm._v(" "),
+              _c(
+                "a",
+                {
+                  staticClass:
+                    "border border-grey-light px-8 py-2 rounded-full text-hd-black font-bold text-xs",
+                  attrs: { download: "", type: "button", href: logo.img.src },
+                },
+                [_vm._v(_vm._s(logo.img.fileName))]
+              ),
+            ]),
           ]
-        ),
-        _vm._v(" "),
-        _c("div", { staticClass: "flex justify-between" }, [
-          _c("p", [
-            _vm._v("\n                Pure negative logo on\n                "),
-            _c("strong", [_vm._v("dark")]),
-            _vm._v(" background\n            "),
-          ]),
-          _vm._v(" "),
-          _c(
-            "a",
-            {
-              staticClass:
-                "border border-grey-light px-8 py-2 rounded-full text-hd-black font-bold text-xs",
-              attrs: {
-                download: "",
-                type: "button",
-                href: "/images/logo/pure-negative-logo.svg",
-              },
-            },
-            [_vm._v("pure-negative-logo.svg")]
-          ),
-        ]),
-      ]),
-    ])
-  },
-]
+        )
+      }),
+    ],
+    2
+  )
+}
+var staticRenderFns = []
 render._withStripped = true
 
 
@@ -1517,14 +1808,9 @@ var render = function () {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _vm._m(0)
-}
-var staticRenderFns = [
-  function () {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", [
+  return _c(
+    "div",
+    [
       _c(
         "h1",
         {
@@ -1534,132 +1820,47 @@ var staticRenderFns = [
         [_vm._v("\n        Logo Symbol\n    ")]
       ),
       _vm._v(" "),
-      _c("div", { staticClass: "mb-10" }, [
-        _c(
-          "picture",
-          {
-            staticClass:
-              "block rounded-lg shadow-hd-default flex items-center justify-center mb-6",
-            staticStyle: { height: "382px" },
-          },
+      _vm._l(_vm.symbols, function (symbol, index) {
+        return _c(
+          "div",
+          { key: index, class: index < _vm.symbols.length - 1 ? "mb-10" : "" },
           [
-            _c("img", {
-              attrs: {
-                src: "/images/symbol/symbol-original.svg",
-                alt: "Logo Symbol",
+            _c(
+              "picture",
+              {
+                staticClass:
+                  "block rounded-lg shadow-hd-default flex items-center justify-center mb-6",
+                class: symbol.background,
+                staticStyle: { height: "382px" },
               },
-            }),
-          ]
-        ),
-        _vm._v(" "),
-        _c("div", { staticClass: "flex justify-between" }, [
-          _c("p", [
-            _vm._v("Original symbol on "),
-            _c("strong", [_vm._v("white")]),
-            _vm._v(" background"),
-          ]),
-          _vm._v(" "),
-          _c(
-            "a",
-            {
-              staticClass:
-                "border border-grey-light px-8 py-2 rounded-full text-hd-black font-bold text-xs",
-              attrs: {
-                download: "",
-                type: "button",
-                href: "/images/symbol/symbol-original.svg",
-              },
-            },
-            [_vm._v("symbol-original.svg")]
-          ),
-        ]),
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "mb-10" }, [
-        _c(
-          "picture",
-          {
-            staticClass:
-              "block rounded-lg shadow-hd-default flex items-center justify-center mb-6 bg-hd-blue",
-            staticStyle: { height: "382px" },
-          },
-          [
-            _c("img", {
-              attrs: { src: "/images/symbol/symbol-negative.svg", alt: "Logo" },
-            }),
-          ]
-        ),
-        _vm._v(" "),
-        _c("div", { staticClass: "flex justify-between" }, [
-          _c("p", [
-            _vm._v(
-              "\n                Negative symbol with accent on\n                "
+              [
+                _c("img", {
+                  attrs: { src: symbol.img.src, alt: symbol.img.alt },
+                }),
+              ]
             ),
-            _c("strong", [_vm._v("dark")]),
-            _vm._v(" background\n            "),
-          ]),
-          _vm._v(" "),
-          _c(
-            "a",
-            {
-              staticClass:
-                "border border-grey-light px-8 py-2 rounded-full text-hd-black font-bold text-xs",
-              attrs: {
-                download: "",
-                type: "button",
-                href: "/images/symbol/symbol-negative.svg",
-              },
-            },
-            [_vm._v("symbol-negative.svg")]
-          ),
-        ]),
-      ]),
-      _vm._v(" "),
-      _c("div", [
-        _c(
-          "picture",
-          {
-            staticClass:
-              "block rounded-lg shadow-hd-default flex items-center justify-center mb-6 bg-hd-black",
-            staticStyle: { height: "382px" },
-          },
-          [
-            _c("img", {
-              attrs: {
-                src: "/images/symbol/symbol-pure-negative.svg",
-                alt: "Logo",
-              },
-            }),
+            _vm._v(" "),
+            _c("div", { staticClass: "flex justify-between" }, [
+              _c("p", { domProps: { innerHTML: _vm._s(symbol.teaser) } }),
+              _vm._v(" "),
+              _c(
+                "a",
+                {
+                  staticClass:
+                    "border border-grey-light px-8 py-2 rounded-full text-hd-black font-bold text-xs",
+                  attrs: { download: "", type: "button", href: symbol.img.src },
+                },
+                [_vm._v(_vm._s(symbol.img.fileName))]
+              ),
+            ]),
           ]
-        ),
-        _vm._v(" "),
-        _c("div", { staticClass: "flex justify-between" }, [
-          _c("p", [
-            _vm._v(
-              "\n                Pure negative symbol on\n                "
-            ),
-            _c("strong", [_vm._v("dark")]),
-            _vm._v(" background\n            "),
-          ]),
-          _vm._v(" "),
-          _c(
-            "a",
-            {
-              staticClass:
-                "border border-grey-light px-8 py-2 rounded-full text-hd-black font-bold text-xs",
-              attrs: {
-                download: "",
-                type: "button",
-                href: "/images/symbol/symbol-pure-negative.svg",
-              },
-            },
-            [_vm._v("symbol-pure-negative.svg")]
-          ),
-        ]),
-      ]),
-    ])
-  },
-]
+        )
+      }),
+    ],
+    2
+  )
+}
+var staticRenderFns = []
 render._withStripped = true
 
 
@@ -1681,11 +1882,96 @@ var render = function () {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c(
-    "h1",
-    { staticClass: "font-normal text-3xl text-hd-grey-darkest leading-none" },
-    [_vm._v("\n    Mascot\n")]
-  )
+  return _c("div", [
+    _c(
+      "h1",
+      {
+        staticClass:
+          "font-normal text-3xl text-hd-grey-darkest leading-none mb-12",
+      },
+      [_vm._v('\n        Meet "Lary"\n    ')]
+    ),
+    _vm._v(" "),
+    _c(
+      "div",
+      {
+        staticClass:
+          "flex flex-col items-center text-center lg:flex-row lg:text-left mb-12",
+      },
+      [
+        _c("div", { staticClass: "lg:mr-8 flex flex-col items-center" }, [
+          _c("img", {
+            staticClass: "mb-4",
+            attrs: { src: _vm.mascots[0].img.src, alt: _vm.mascots[0].img.src },
+          }),
+          _vm._v(" "),
+          _c(
+            "a",
+            { staticClass: "button", attrs: { href: _vm.mascots[0].img.src } },
+            [_vm._v(_vm._s(_vm.mascots[0].img.fileName))]
+          ),
+        ]),
+        _vm._v(" "),
+        _c("p", { staticClass: "leading-relaxed w-64 mt-8 lg:-mt-8" }, [
+          _vm._v(
+            "\n            " + _vm._s(_vm.mascots[0].teaser) + "\n        "
+          ),
+        ]),
+      ]
+    ),
+    _vm._v(" "),
+    _c(
+      "div",
+      { staticClass: "lg:flex" },
+      _vm._l(_vm.mascots, function (mascot, index) {
+        return index !== 0
+          ? _c(
+              "div",
+              {
+                key: index,
+                staticClass:
+                  "border border-grey-lighter rounded-lg flex flex-col items-center justify-center pt-6 pb-6 px-8 mx-auto mb-6 lg:mb-0",
+                class:
+                  index < _vm.mascots.length - 1
+                    ? "lg:ml-0 lg:mr-6"
+                    : "lg:mx-0",
+              },
+              [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mb-5 mt-auto",
+                    attrs: { href: mascot.img.src },
+                  },
+                  [
+                    _c("img", {
+                      attrs: { src: mascot.img.src, alt: mascot.img.alt },
+                    }),
+                  ]
+                ),
+                _vm._v(" "),
+                _c(
+                  "a",
+                  {
+                    staticClass:
+                      "text-hd-grey font-semibold text-2xs hover:underline mt-auto",
+                    attrs: { href: mascot.img.src, download: "" },
+                  },
+                  [
+                    _vm._v(
+                      "\n                " +
+                        _vm._s(mascot.img.fileName) +
+                        "\n            "
+                    ),
+                  ]
+                ),
+              ]
+            )
+          : _vm._e()
+      }),
+      0
+    ),
+  ])
 }
 var staticRenderFns = []
 render._withStripped = true
@@ -1734,9 +2020,74 @@ var render = function () {
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
   return _c(
-    "h1",
-    { staticClass: "font-normal text-3xl text-hd-grey-darkest leading-none" },
-    [_vm._v("\n    Typography\n")]
+    "div",
+    [
+      _c(
+        "h1",
+        {
+          staticClass:
+            "font-normal text-3xl text-hd-grey-darkest leading-none mb-6",
+        },
+        [_vm._v("\n        Open Sans\n    ")]
+      ),
+      _vm._v(" "),
+      _vm._l(_vm.fonts, function (font, index) {
+        return _c(
+          "div",
+          {
+            key: index,
+            staticClass: "rounded-lg p-6 lg:py-12 lg:px-16 max-w-lg",
+            class:
+              index < _vm.fonts.length - 1
+                ? "mb-10 " + font.background
+                : font.background,
+            style: "color: " + font.textColor,
+          },
+          [
+            _c("div", { staticClass: "flex justify-end mb-10 items-center" }, [
+              _c("div", {
+                staticClass: "rounded-full shadow-hd-default w-8 h-8 mr-3",
+                style: "background: " + font.textColor,
+              }),
+              _vm._v(" "),
+              _c("span", { staticClass: "text-xs" }, [
+                _vm._v(_vm._s(font.textColor)),
+              ]),
+            ]),
+            _vm._v(" "),
+            _vm._l(font.styles, function (style, index) {
+              return _c(
+                "div",
+                {
+                  key: index,
+                  staticClass: "flex justify-between",
+                  class: index < font.styles.length - 1 ? "mb-6" : "",
+                },
+                [
+                  _c("strong", { staticClass: "text-xl", class: style.class }, [
+                    _vm._v(
+                      "\n                " +
+                        _vm._s(style.name) +
+                        "\n            "
+                    ),
+                  ]),
+                  _vm._v(" "),
+                  _c("span", { staticClass: "text-xl", class: style.class }, [
+                    _vm._v(
+                      "\n                " +
+                        _vm._s(style.size) +
+                        "\n            "
+                    ),
+                  ]),
+                ]
+              )
+            }),
+          ],
+          2
+        )
+      }),
+    ],
+    2
   )
 }
 var staticRenderFns = []
@@ -1762,9 +2113,58 @@ var render = function () {
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
   return _c(
-    "h1",
-    { staticClass: "font-normal text-3xl text-hd-grey-darkest leading-none" },
-    [_vm._v("\n    Wallpaper\n")]
+    "div",
+    [
+      _c(
+        "h1",
+        {
+          staticClass:
+            "font-normal text-3xl text-hd-grey-darkest leading-none mb-6",
+        },
+        [_vm._v("\n        Wallpaper\n    ")]
+      ),
+      _vm._v(" "),
+      _vm._l(_vm.wallpapers, function (wallpaper, index) {
+        return _c(
+          "div",
+          {
+            key: index,
+            staticClass: "max-w-md",
+            class: index < _vm.wallpapers.length - 1 ? "mb-12" : "",
+          },
+          [
+            _c("a", { attrs: { href: wallpaper.img.src } }, [
+              _c("img", {
+                staticClass: "mb-4",
+                attrs: { src: wallpaper.img.src, alt: wallpaper.img.alt },
+              }),
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "flex justify-between items-center" }, [
+              _c("h2", { staticClass: "font-normal text-base" }, [
+                _vm._v(_vm._s(wallpaper.teaser)),
+              ]),
+              _vm._v(" "),
+              _c(
+                "a",
+                {
+                  staticClass: "button",
+                  attrs: { href: wallpaper.img.src, download: "" },
+                },
+                [
+                  _vm._v(
+                    "\n                " +
+                      _vm._s(wallpaper.img.fileName) +
+                      "\n            "
+                  ),
+                ]
+              ),
+            ]),
+          ]
+        )
+      }),
+    ],
+    2
   )
 }
 var staticRenderFns = []
