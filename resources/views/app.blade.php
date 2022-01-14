@@ -43,7 +43,7 @@
                                 </li>
                             </ul>
                         </section>
-                        <section>
+                        <section class="mb-10">
                             <h5 class="uppercase font-bold mb-5 text-base">Doodles</h5>
                             <ul class="">
                                 <li class="text-sm leading-hd-loose">
@@ -62,6 +62,23 @@
                                 </li>
                                 <li class="text-sm leading-hd-loose">
                                     <router-link class="text-hd-black" to="/wallpaper">Wallpaper
+                                    </router-link>
+                                </li>
+                            </ul>
+                        </section>
+                        <section>
+                            <h5 class="uppercase font-bold mb-5 text-base">Stats</h5>
+                            <ul class="">
+                                <li class="text-sm leading-hd-loose">
+                                    <router-link class="text-hd-black" to="/site-stats">Site Stats
+                                    </router-link>
+                                </li>
+                                <li class="text-sm leading-hd-loose">
+                                    <router-link class="text-hd-black" to="/achievements">Your Achievements
+                                    </router-link>
+                                </li>
+                                <li class="text-sm leading-hd-loose">
+                                    <router-link class="text-hd-black" to="/setting">Setting
                                     </router-link>
                                 </li>
                             </ul>

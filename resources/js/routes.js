@@ -1,12 +1,16 @@
-import Logo from "./components/Logo.vue";
-import LogoSymbol from "./components/LogoSymbol.vue";
-import Colors from "./components/Colors.vue";
-import Typography from "./components/Typography.vue";
-import Mascot from "./components/Mascot.vue";
-import Illustration from "./components/Illustration.vue";
-import LoadersAndAnimations from "./components/LoadersAndAnimations.vue";
-import Wallpaper from "./components/Wallpaper.vue";
-import NotFound from "./components/NotFound.vue";
+let Logo = () => import("./components/Logo.vue");
+let LogoSymbol = () => import("./components/LogoSymbol.vue");
+let Colors = () => import("./components/Colors.vue");
+let Typography = () => import("./components/Typography.vue");
+let Mascot = () => import("./components/Mascot.vue");
+let Illustration = () => import("./components/Illustration.vue");
+let LoadersAndAnimations = () =>
+    import("./components/LoadersAndAnimations.vue");
+let Wallpaper = () => import("./components/Wallpaper.vue");
+let SiteStats = () => import("./components/SiteStats.vue");
+let Achievements = () => import("./components/Achievements.vue");
+let NotFound = () => import("./components/NotFound.vue");
+let Setting = () => import("./components/Setting.vue");
 
 export default {
     mode: "history",
@@ -47,6 +51,18 @@ export default {
         {
             path: "/wallpaper",
             component: Wallpaper,
+        },
+        {
+            path: "/site-stats",
+            component: SiteStats,
+        },
+        {
+            path: "/achievements",
+            component: Achievements,
+        },
+        {
+            path: "/setting",
+            component: Setting,
         },
     ],
 };
